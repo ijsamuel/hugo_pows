@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "pearls-of-wisdom-stories"
+  },
+  "targets": {
+    "pearls-of-wisdom-stories": {
+      "hosting": {
+        "qapows": [
+          "qapows"
+        ]
+      }
+    }
+  }
+}
