@@ -1,11 +1,15 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+omit_header_text: true
 menu:
   main:
     weight: 1
 ---
 
-{{< figure src="/images/author.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/author.jpg" alt="James Samuel" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+James Samuel was born in India and came to the United States at a young age. _Pearls of Wisdom_ is his first book. James loves to read and grew up hearing Bible stories and Indian folk tales. He is especially influenced by the Book of Proverbs which his mother told him to read daily.
+
+Over the years, _Pearls of Wisdom_ was formed with inspiration from God, as James would tell short stories to his children based on Proverbs. James attended MIT and completed his MBA from NYU. He lives with his family in Connecticut.
+
+To contact the author, e-mail James at pearlsofwisdomstories@gmail.com
