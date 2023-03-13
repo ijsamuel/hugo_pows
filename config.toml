@@ -3,13 +3,13 @@ languageCode = 'en-us'
 theme = 'ananke'
 resourceDir = "../resources"
 contentDir = "content"
+title = 'Pearls of Wisdom'
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-
 
 [sitemap]
   changefreq = "monthly"
@@ -26,7 +26,9 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   recent_posts_number = 3
   custom_css = ["custom.css"]
+  mainSections = ["posts", "thoughts", "stories"]
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+  name = "instagram"
+  url= "http://instagram.com"
+
